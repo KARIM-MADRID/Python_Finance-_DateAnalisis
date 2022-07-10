@@ -1,0 +1,2 @@
+# Python_Finance-_DateAnalisis
+Python_Financial_Data_Analasis with Indicators
